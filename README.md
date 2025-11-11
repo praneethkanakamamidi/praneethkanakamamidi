@@ -9,7 +9,6 @@ Hyderabad, Telangana, India
 
 ### 🔗 Connect with me
 - LinkedIn: [in/praneeth-kanakamamidi-5ab22a245](https://www.linkedin.com/in/praneeth-kanakamamidi-5ab22a245)
-- Medium: [praneethkanakamamidi](https://medium.com/@praneethkanakamamidi)
 
 ---
 
