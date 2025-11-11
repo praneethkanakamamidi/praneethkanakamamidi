@@ -14,8 +14,8 @@ Hyderabad, Telangana, India
 
 ### Skills
 **Backend Development:** FastAPI, Python, SQLAlchemy, Pydantic, REST APIs  
-**AI & ML:** Generative AI, Machine Learning, Deep Learning, Keras, TensorFlow, PyTorch, Scikit-learn  
-**Libraries:** Pandas, NumPy, Geopy
+**AI & ML:** Generative AI, Machine Learning, LangChain, LlamaIndex, Deep Learning, Keras, TensorFlow, PyTorch, Scikit-learn  
+**Libraries:** Pandas, NumPy, Geopy  
 **Databases & Tools:** PostgreSQL, Docker, Git, CI/CD  
 
 ---
